@@ -1,0 +1,29 @@
+# Ambiente virtual
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração e IDE
+.vscode/
+.idea/
+
+# Arquivos sensíveis
+.env
+
+# Arquivos de áudio temporários
+*.wav
+
+# Arquivos de dados temporários ou exportações
+*.csv
+
+# Arquivos binários
+ffmpeg.exe
